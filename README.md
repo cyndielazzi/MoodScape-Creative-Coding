@@ -46,6 +46,16 @@ Press the main Play button to hear all four emotional sections.
 
 The code uses TunePad's built-in music functions and is designed to run in TunePad rather than standard Python.
 
+## Instrument settings:
+- main_melody.py — Piano
+- background_chords.py — Piano
+- background_instruments.py — Synth > Pads > Dreamy Pad
+- drums.py — 808 Drumkit
+
+Run all four cells together in TunePad.
+The files use TunePad-specific functions and will not run
+directly in standard Python.
+
 ## Coding Concepts
 
 MoodScape demonstrates Python lists, variables, nested loops, note durations, velocity, rests and TunePad's built-in music functions. Multiple instrument cells are used to create layered musical compositions.
