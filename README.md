@@ -73,3 +73,12 @@ MoodScape was developed through experimentation, debugging, musical layering, te
 ## Acknowledgements and GenAI Use
 
 I used GenAI tools, including ChatGPT and Grammarly, to support the planning, development and presentation of my MoodScape project. ChatGPT was primarily used to brainstorm ideas for my initial and final concept maps, explore possible connections between music, emotions and coding, and consider different ways to organise and communicate my project. I also used ChatGPT to generate presentation ideas, explore how MoodScape could be structured using TunePad and Python, and refine wording to make my explanations clearer. Grammarly was used to improve spelling, grammar, sentence clarity and overall readability.
+
+
+## Live TunePad Project
+
+My completed MoodScape composition can be viewed and played in TunePad:
+
+[Open MoodScape in TunePad](https://tunepad.com/project/134925)
+
+
